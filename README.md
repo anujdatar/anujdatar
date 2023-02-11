@@ -2,19 +2,19 @@
 
 Totally random developer, who likes to work on random projects and learn random things. 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=anujdatar&count_private=true&show_icons=true&hide=contribs) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujdatar&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=anujdatar&count_private=true&show_icons=true&hide=contribs&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujdatar&layout=compact&theme=dark)
 
 Some of my work:
 
-![ANM Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=anm)
-![OneNote Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=onenote-desktop)
-![CUPS Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=cups-docker)
-![TeamSpeak Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=teamspeak-arm)
-![CloudflareDDNS Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=cloudflare-ddns-docker)
-![Python AppConfig Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=py-appconfig)
-![Excel Data Extractor Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=excel-data-extractor)
-![VS Code in Nautilus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=code-nautilus)
+![ANM Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=anm&theme=tokyonight)
+![OneNote Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=onenote-desktop&theme=dracula)
+![Excel Data Extractor Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=excel-data-extractor&theme=onedark)
+![TeamSpeak Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=teamspeak-arm&theme=cobalt)
+![CUPS Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=cups-docker&theme=tokyonight)
+![CloudflareDDNS Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=cloudflare-ddns-docker&theme=dracula)
+![Python AppConfig Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=py-appconfig&theme=onedark)
+![VS Code in Nautilus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=code-nautilus&theme=cobalt)
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
