@@ -7,7 +7,7 @@ Totally random developer, who likes to work on random projects and learn random 
 
 Some of my work:
 
-![ANM Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=anm&theme=tokyonight)
+[![ANM Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=anm&theme=tokyonight)](https://github.com/anujdatar/anm)]
 ![OneNote Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=onenote-desktop&theme=dracula)
 ![Excel Data Extractor Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=excel-data-extractor&theme=onedark)
 ![TeamSpeak Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anujdatar&repo=teamspeak-arm&theme=cobalt)
