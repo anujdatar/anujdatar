@@ -2,8 +2,8 @@
 
 Totally random developer, who likes to work on random projects and learn random things. 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=anujdatar&count_private=true&show_icons=true&hide=contribs&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujdatar&layout=compact&theme=dark)]
+[![Github stats](https://github-readme-stats.vercel.app/api?username=anujdatar&count_private=true&show_icons=true&hide=contribs&theme=dark)](https://github.com/anujdatar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujdatar&layout=compact&theme=dark)](https://github.com/anujdatar)
 
 Some of my work:
 
